@@ -8,14 +8,10 @@ This project implements a ResNext50-based deep learning model to classify the po
 
 ## Project Structure
 
-- `notebooks/`: Jupyter notebooks for model development and analysis
-- `src/`: Source code for the project
-- `configs/`: Configuration files
-- `requirements.txt`: Project dependencies
 
 ## Setup
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ranzcr-catheter-classification.git
-cd ranzcr-catheter-classification
+git clone https://github.com/sankalp112kashyap/ChestX-RayMultiLabelClassification.git
+cd ChestX-RayMultiLabelClassification
