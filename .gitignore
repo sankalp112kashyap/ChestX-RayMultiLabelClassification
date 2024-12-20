@@ -1,0 +1,51 @@
+# Data files
+data/
+*.jpg
+*.jpeg
+*.png
+*.csv
+
+# Documentation and media files
+*.pdf
+*.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files
+*.pth
+*.pt
+*.h5
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Mac specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# Logs
+logs/
+*.log
